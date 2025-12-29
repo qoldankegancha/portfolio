@@ -98,7 +98,7 @@ export const PROJECTS: Project[] = [
     description: "Developed 2 personal 3D and 2D mobile games. Focused on low-poly asset creation and performance optimization for mobile devices.",
     tags: ["Game Dev", "Unity", "C#"],
     placeholderColor: "#ff6b6b",
-    modelPath: "", 
+    modelPath: "/drone_2.glb", 
   },
   {
     title: "Web Development",
