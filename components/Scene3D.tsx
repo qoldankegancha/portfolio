@@ -1,4 +1,4 @@
-import React, { Suspense } from 'react';
+import { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Stage, Float, useGLTF } from '@react-three/drei';
 import { HERO_MODEL_PATH } from '../constants';
