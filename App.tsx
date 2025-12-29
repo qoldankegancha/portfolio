@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Phone, Mail, Send, CheckCircle2, Languages, GraduationCap, Trophy, Dumbbell, User, BrainCircuit } from 'lucide-react';
+import { Phone, Mail, Send, CheckCircle2, Languages, GraduationCap, Trophy, Dumbbell, BrainCircuit } from 'lucide-react';
 
 import Scene3D from './components/Scene3D';
 import SectionHeader from './components/SectionHeader';
