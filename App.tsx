@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Phone, Mail, Send, CheckCircle2, Languages, GraduationCap, Trophy, Dumbbell, BrainCircuit } from 'lucide-react';
 
